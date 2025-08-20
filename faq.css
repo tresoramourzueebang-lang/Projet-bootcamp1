@@ -585,8 +585,7 @@
             display: grid;
             gap: var(--spacing-6);
             color: white;
-            border-left: 1px solid var(--gray-700);
-
+            border-left: 1px solid  var(--gray-700);
         }
 
         @media (min-width: 768px) {
